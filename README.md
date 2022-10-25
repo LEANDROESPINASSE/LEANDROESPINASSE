@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro Espinasse</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
+<img src="./images/fondogithub.jpg" />
+
 - 🔭 I’m currently working on a Web aplication **FLYLAND**
 
 <h3 align="left">Connect with me:</h3>
