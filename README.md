@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Leandro Espinasse</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
+- 📝 Get in touch ! ** [Linkedin](https://www.linkedin.com/in/leandro-espinasse/) mail ? gabriel.i.jalil@gmail.com or [Whatsapp](https://wa.me/542615461097)**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
